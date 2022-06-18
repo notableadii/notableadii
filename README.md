@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript Properly
 - 📫 How to reach me [Instagram](https://instagram.com/icy_kaido)
-- Im Currently Taking A Break
+- Im Currently On A Break
 <table>
 <tr>
     <td align='center' width="190">
