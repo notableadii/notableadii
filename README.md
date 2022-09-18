@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IcyKaido
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript Properly
-- 📫 How to reach me [Instagram](https://instagram.com/icy_kaido)
-- 🕜 I'm Currently On A Break
+- 📫 How to reach me [Instagram](https://instagram.com/ewww_adi)
 <table>
 <tr>
     <td align='center' width="190">
