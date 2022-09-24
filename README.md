@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IcyKaido
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript Properly From The Beginning
-- 📫 You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](icykaido@gmail.com)
+- 📫 You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:icykaido@gmail.com)
 <table>
 <tr>
     <td align='center' width="190">
