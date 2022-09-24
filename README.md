@@ -10,12 +10,6 @@
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/4d010b945018a617c529b74888e3c9381cac6e2f/assets/ts.svg">
     </td>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60">
-<!--     </td>
-     <td align='center' width="190">
-        <img src="assets/code.png" width="60">
-    </td> -->
     <td align='center' width="165">
         <img src="css.png">
     </td>
