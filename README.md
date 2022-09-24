@@ -20,7 +20,7 @@
         <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/5c086a0a539e14830e75803bfca843df645e8313/assets/css.svg">
     </td>
    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/PHANTOM0P/PHANTOM0P/5c086a0a539e14830e75803bfca843df645e8313/assets/html.svg">
+        <img src="html.png">
     </td>
 <!--  <td align='center' width="190">
         <img src="https://github.com/PHANTOM0P/PHANTOM0P/blob/main/assets/favicon.png?raw=true">
