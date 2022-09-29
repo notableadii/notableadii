@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m @IcyKaido**
+- 👋 **Hi, I’m [@IcyKaido](https://github.com/IcyKaido)**
 - 👀 **I’m interested in Web Development**
 - 🌱 **I’m currently learning Javascript Properly From The Beginning**
 - 🍀 **I Use Ubuntu**
