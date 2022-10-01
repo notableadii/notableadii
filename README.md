@@ -1,9 +1,9 @@
 - 👋 **Hi, I’m [@IcyKaido](https://github.com/IcyKaido)**
 - 👀 **I’m interested in Web Development**
-- 🌱 **I’m currently learning Javascript Properly From The Beginning**
+- 🌱 **I’m currently learning Python Properly From The Beginning**
 - 🍀 **I Use Ubuntu**
 - 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:icykaido@gmail.com)**
-<table>
+<!-- <table>
 <tr>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="90">
@@ -24,7 +24,7 @@
         <img src="reactjs.png">
     </td>
 </tr>
-</table>
+</table>-->
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif">
 </p> -->
