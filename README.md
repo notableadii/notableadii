@@ -3,6 +3,8 @@
 - 🌱 **I’m currently learning Python Properly From The Beginning**
 - 🍀 **I Use Ubuntu**
 - 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:icykaido@gmail.com)**
+
+  ![image](https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif)
 <!-- <table>
 <tr>
     <td align='center' width="190">
