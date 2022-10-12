@@ -1,8 +1,8 @@
 - 👋 **Hi, I’m [@IcyKaido](https://github.com/IcyKaido)**
 - 👀 **I’m interested in Web Development**
 - 🌱 **I’m currently learning Javascript Properly From The Beginning**
-- 🍀 **I Use Ubuntu**
-- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:icykaido@gmail.com)**
+<!-- - 🍀 **I Use Ubuntu** --> 
+- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:businessaditya0@gmail.com)**
 
   ![image](https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif)
 <!-- <table>
