@@ -1,7 +1,8 @@
-- 👋 **Hi, I’m [@Icy](https://github.com/notableadii)**
-- 👀 **I’m interested in Web Development**
-- 🌱 **I’m currently learning Javascript Properly From The Beginning** 
-- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adi), [Twitter](https:twitter.com/eww_adi), [Email](mailto:businessaditya0@gmail.com)**
+- 👋 **Hi, I’m [@Aditya Shah](https://github.com/notableadii)**
+- ✍️ **I'm a hobby developer i learn and develop for fun and learning new skills**
+- 👀 **I’m interested in Python Development**
+- 🌱 **I’m currently learning Python from beginning after a very long gap from programming** 
+- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [Twitter](https:twitter.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
 
  <!-- ![image](https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif) -->
 <!-- <table>
