@@ -4,7 +4,7 @@
 - ✍️ **I'm a hobby developer i learn and develop for fun and learning new skills**
 - 👀 **I’m interested in Python Development & Web development**
 - 🌱 **I’m currently learning Python from beginning after a very long gap from programming** 
-- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [Twitter](https:twitter.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
+- 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [X](https://x.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- ![image](https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif) -->
