@@ -2,8 +2,8 @@
 
 - 👋 **Hi, I’m [@Aditya Shah](https://github.com/notableadii)**
 - ✍️ **I'm a hobby developer i learn and develope for fun and learning new skills**
-- 👀 **I’m interested in Python Development & Web development**
-- 🌱 **I’m currently learning Python nd Javascript from beginning after a very long gap from developing** 
+- 👀 **I’m interested in Web development**
+- 🌱 **I’m currently learning Html, Css, Javascript And Nextjs from beginning after a very long gap from developing** 
 - 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [X](https://x.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
