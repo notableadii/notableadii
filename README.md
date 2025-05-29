@@ -2,7 +2,6 @@
 
 - 👋 **Hi, I’m [@Aditya Shah](https://github.com/notableadii)**
 - ✍️ **I'm Currently Learning Data analysis**
-- 🌱 **I’m a Multi-sector business owner across manufacturing, automotive, Lodging, and real estate.** 
 - 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [X](https://x.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -34,7 +33,7 @@
 </p> -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me [Instagram](https://instagram.com/icy_kaido) -->
-
+<!---- 🌱 **I’m a Multi-sector business owner across manufacturing, automotive, Lodging, and real estate.** --->
 <!---
 IcyKaido/IcyKaido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
