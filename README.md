@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 👋 **Hi, I’m [@Aditya Shah](https://github.com/notableadii)**
-- ✍️ **Professional Vide coder**
 - 📫 **You Can Reach Me On - [Instagram](https://instagram.com/ewww_adii), [X](https://x.com/TheMostRealAdii), [Email](mailto:work.adii01@gmail.com)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
